@@ -11,7 +11,7 @@ ports = [ 22, 80, 9090 ]
 key_name = "project2-key"
 ec2_name = "project2-ec2"
 topic_name = "alarms"
-bucket_name ="kyrgyz-kazakh"
+bucket_name ="monitoring-and-alerts"
 email_address = "example@gmail.com"
 slack_webhook = "please provide your own slack webhook"
 ```
